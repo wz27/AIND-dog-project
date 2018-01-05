@@ -4,6 +4,11 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Project Introduction
+
+In this project, I employed Convolutional Neural Networks in Tensorflow to create a dog breed classifier. More details are available in the Jupyter notebook. 
+
+Below are the project instructions.
 
 ## Project Overview
 
